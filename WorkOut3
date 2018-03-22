@@ -11,9 +11,9 @@
 <br><br>
 <button onclick="setTimeout(myFunction, 3000)" style="width:10%"><b>GO</b></button>
 <br><br>
-<a href="C:/Users/perss/Documents/Files/DaisyGirlServices/Development/WorkOut/WorkOut4.html"><button>NEXT</button></a>
+<a href="WorkOut4.html"><button>NEXT</button></a>
 <br><br>
-<a href="C:/Users/perss/Documents/Files/DaisyGirlServices/Development/WorkOut/WorkOut.html"><button>HOME</button></a>
+<a href="WorkOut.html"><button>HOME</button></a>
 </body>
 <script src="WorkOut.js"></script>
 <script src="js/bootstrap.min.js"></script>
